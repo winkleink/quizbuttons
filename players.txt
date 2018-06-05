@@ -1,0 +1,44 @@
+# Text at the top
+[This is a test Quiz]
+
+# Number of Players
+[5]
+
+# Players Names - has to be the same as the number of players above.
+[John Jo]
+[Bob Bo]
+[Paul Po]
+[Fred Fo]
+[Greg Go]
+
+# Player Buzzer Sounds - again same order as above - has to be the same number as players
+[player1.ogg]
+[player2.ogg]
+[player3.ogg]
+[player4.ogg]
+[player4.ogg]
+
+
+#Key Assignment
+[left]
+[right]
+[up]
+[down]
+[space]
+
+#Key for adding score
+[1]
+[2]
+[3]
+[4]
+[5]
+
+#Key for reducing score
+[a]
+[s]
+[d]
+[f]
+[g]
+
+
+
